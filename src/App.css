@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('./images/vending-machine-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.App {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}

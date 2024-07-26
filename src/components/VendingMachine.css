@@ -1,0 +1,28 @@
+.VendingMachine {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .VendingMachine ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .VendingMachine li {
+    margin: 0 10px;
+  }
+  
+  .VendingMachine a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .VendingMachine a:hover {
+    background-color: #555;
+  }
